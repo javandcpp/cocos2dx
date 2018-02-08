@@ -1,0 +1,129 @@
+{
+"skeleton": { "hash": "tP2VGYZmGwkAo0DcrMfKfIhdkXY", "spine": "3.5.29", "width": 2000, "height": 2000, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 174.09, "rotation": 90.63, "x": 203.79, "y": 17.22, "color": "88f50cff" },
+	{ "name": "bone2", "parent": "root", "length": 332.87, "rotation": 89.57, "x": -4.73, "y": -426.6, "color": "79f200ff" },
+	{ "name": "bone3", "parent": "root", "length": 213.92, "rotation": 27.71, "x": -92.72, "y": 195.13, "color": "91f200ff" },
+	{ "name": "bone4", "parent": "root", "length": 162.62, "rotation": 90.67, "x": -220.89, "y": -68.87, "color": "94fa23ff" },
+	{ "name": "bone5", "parent": "root", "length": 193.21, "x": -85.07, "y": 21.05, "color": "86f52cff" }
+],
+"slots": [
+	{ "name": "shiguang", "bone": "bone2", "attachment": "image/shiguang/19" },
+	{ "name": "weiqi", "bone": "bone3", "attachment": "image/weiqi/9" },
+	{ "name": "fengshan", "bone": "bone4", "attachment": "image/fengshan/9" },
+	{ "name": "image/mask", "bone": "root" },
+	{ "name": "time", "bone": "bone", "attachment": "image/time/39" },
+	{ "name": "PT", "bone": "bone5", "attachment": "image/PT/69" }
+],
+"skins": {
+	"default": {
+		"PT": {
+			"image/PT/69": { "path": " image/PT/69", "width": 348, "height": 300 },
+			"image/PT/71": { "path": " image/PT/71", "width": 348, "height": 300 },
+			"image/PT/73": { "path": " image/PT/73", "width": 348, "height": 300 },
+			"image/PT/75": { "path": " image/PT/75", "width": 348, "height": 300 },
+			"image/PT/77": { "path": " image/PT/77", "width": 348, "height": 300 }
+		},
+		"fengshan": {
+			"image/fengshan/1": { "path": " image/fengshan/1", "rotation": -90.67, "width": 147, "height": 139 },
+			"image/fengshan/3": { "path": " image/fengshan/3", "rotation": -90.67, "width": 147, "height": 139 },
+			"image/fengshan/5": { "path": " image/fengshan/5", "rotation": -90.67, "width": 147, "height": 139 },
+			"image/fengshan/7": { "path": " image/fengshan/7", "rotation": -90.67, "width": 147, "height": 139 },
+			"image/fengshan/9": { "path": " image/fengshan/9", "rotation": -90.67, "width": 147, "height": 139 }
+		},
+		"shiguang": {
+			"image/shiguang/01": { "path": " image/shiguang/01", "rotation": -89.57, "width": 461, "height": 403 },
+			"image/shiguang/03": { "path": " image/shiguang/03", "rotation": -89.57, "width": 461, "height": 403 },
+			"image/shiguang/05": { "path": " image/shiguang/05", "rotation": -89.57, "width": 461, "height": 403 },
+			"image/shiguang/07": { "path": " image/shiguang/07", "rotation": -89.57, "width": 461, "height": 403 },
+			"image/shiguang/09": { "path": " image/shiguang/09", "rotation": -89.57, "width": 461, "height": 403 },
+			"image/shiguang/11": { "path": " image/shiguang/11", "rotation": -89.57, "width": 461, "height": 403 },
+			"image/shiguang/13": { "path": " image/shiguang/13", "rotation": -89.57, "width": 461, "height": 403 },
+			"image/shiguang/15": { "path": " image/shiguang/15", "rotation": -89.57, "width": 461, "height": 403 },
+			"image/shiguang/17": { "path": " image/shiguang/17", "rotation": -89.57, "width": 461, "height": 403 },
+			"image/shiguang/19": { "path": " image/shiguang/19", "rotation": -89.57, "width": 461, "height": 403 }
+		},
+		"time": {
+			"image/time/03": { "path": " image/time/03", "rotation": -90.63, "width": 182, "height": 235 },
+			"image/time/07": { "path": " image/time/07", "rotation": -90.63, "width": 182, "height": 235 },
+			"image/time/11": { "path": " image/time/11", "rotation": -90.63, "width": 182, "height": 235 },
+			"image/time/15": { "path": " image/time/15", "rotation": -90.63, "width": 182, "height": 235 },
+			"image/time/19": { "path": " image/time/19", "rotation": -90.63, "width": 182, "height": 235 },
+			"image/time/23": { "path": " image/time/23", "rotation": -90.63, "width": 182, "height": 235 },
+			"image/time/27": { "path": " image/time/27", "rotation": -90.63, "width": 182, "height": 235 },
+			"image/time/31": { "path": " image/time/31", "rotation": -90.63, "width": 182, "height": 235 },
+			"image/time/35": { "path": " image/time/35", "rotation": -90.63, "width": 182, "height": 235 },
+			"image/time/39": { "path": " image/time/39", "rotation": -90.63, "width": 182, "height": 235 }
+		},
+		"weiqi": {
+			"image/weiqi/1": { "path": " image/weiqi/1", "rotation": -27.71, "width": 298, "height": 156 },
+			"image/weiqi/3": { "path": " image/weiqi/3", "rotation": -27.71, "width": 298, "height": 156 },
+			"image/weiqi/5": { "path": " image/weiqi/5", "rotation": -27.71, "width": 298, "height": 156 },
+			"image/weiqi/7": { "path": " image/weiqi/7", "rotation": -27.71, "width": 298, "height": 156 },
+			"image/weiqi/9": { "path": " image/weiqi/9", "rotation": -27.71, "width": 298, "height": 156 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"PT": {
+				"attachment": [
+					{ "time": 0, "name": "image/PT/77" },
+					{ "time": 0.1, "name": "image/PT/75" },
+					{ "time": 0.2, "name": "image/PT/73" },
+					{ "time": 0.3, "name": "image/PT/71" },
+					{ "time": 0.4, "name": "image/PT/69" }
+				]
+			},
+			"fengshan": {
+				"attachment": [
+					{ "time": 0, "name": "image/fengshan/1" },
+					{ "time": 0.1, "name": "image/fengshan/3" },
+					{ "time": 0.2, "name": "image/fengshan/5" },
+					{ "time": 0.3, "name": "image/fengshan/7" },
+					{ "time": 0.4, "name": "image/fengshan/9" }
+				]
+			},
+			"shiguang": {
+				"attachment": [
+					{ "time": 0, "name": "image/shiguang/01" },
+					{ "time": 0.1, "name": "image/shiguang/03" },
+					{ "time": 0.2, "name": "image/shiguang/05" },
+					{ "time": 0.3, "name": "image/shiguang/07" },
+					{ "time": 0.4, "name": "image/shiguang/09" },
+					{ "time": 0.5, "name": "image/shiguang/11" },
+					{ "time": 0.6, "name": "image/shiguang/13" },
+					{ "time": 0.7, "name": "image/shiguang/15" },
+					{ "time": 0.8, "name": "image/shiguang/17" },
+					{ "time": 0.9, "name": "image/shiguang/19" }
+				]
+			},
+			"time": {
+				"attachment": [
+					{ "time": 0, "name": "image/time/03" },
+					{ "time": 0.1, "name": "image/time/07" },
+					{ "time": 0.2, "name": "image/time/11" },
+					{ "time": 0.3, "name": "image/time/15" },
+					{ "time": 0.4, "name": "image/time/19" },
+					{ "time": 0.5, "name": "image/time/23" },
+					{ "time": 0.6, "name": "image/time/27" },
+					{ "time": 0.7, "name": "image/time/31" },
+					{ "time": 0.8, "name": "image/time/35" },
+					{ "time": 0.9, "name": "image/time/39" }
+				]
+			},
+			"weiqi": {
+				"attachment": [
+					{ "time": 0, "name": "image/weiqi/1" },
+					{ "time": 0.1, "name": "image/weiqi/3" },
+					{ "time": 0.2, "name": "image/weiqi/5" },
+					{ "time": 0.3, "name": "image/weiqi/7" },
+					{ "time": 0.4, "name": "image/weiqi/9" }
+				]
+			}
+		}
+	}
+}
+}

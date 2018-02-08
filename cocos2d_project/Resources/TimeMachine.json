@@ -1,0 +1,123 @@
+{
+"skeleton": { "hash": "s0Vhkg828+pRKPsr09pvIU+5g3A", "spine": "3.5.51", "width": 2579.59, "height": 2470.92, "images": "" },
+"bones": [
+	{ "name": "TimeMachine" },
+	{ "name": "shiguang", "parent": "TimeMachine", "length": 376.08, "rotation": -177.5, "x": 183.41, "y": -52.03 },
+	{ "name": "che", "parent": "shiguang", "length": 274.21, "rotation": 0.13, "x": 57.61, "y": 40.76 },
+	{
+		"name": "yanhua",
+		"parent": "shiguang",
+		"length": 162.37,
+		"rotation": -1.08,
+		"x": -33.34,
+		"y": -62.15,
+		"scaleX": 2.428,
+		"scaleY": 2.428
+	}
+],
+"slots": [
+	{ "name": "test", "bone": "TimeMachine", "attachment": "test" },
+	{ "name": "image/shiguang /shiguang _00", "bone": "che", "attachment": "image/shiguang /shiguang _01" },
+	{ "name": "image/mask", "bone": "TimeMachine" }
+],
+"skins": {
+	"default": {
+		"image/shiguang /shiguang _00": {
+			"image/shiguang /shiguang _01": { "path": " image/shiguang /shiguang _01", "x": 123.14, "y": -101, "rotation": 177.38, "width": 461, "height": 403 },
+			"image/shiguang /shiguang _03": { "path": " image/shiguang /shiguang _03", "x": 123.14, "y": -101, "rotation": 177.38, "width": 461, "height": 403 },
+			"image/shiguang /shiguang _05": { "path": " image/shiguang /shiguang _05", "x": 123.14, "y": -101, "rotation": 177.38, "width": 461, "height": 403 },
+			"image/shiguang /shiguang _07": { "path": " image/shiguang /shiguang _07", "x": 123.14, "y": -101, "rotation": 177.38, "width": 461, "height": 403 },
+			"image/shiguang /shiguang _09": { "path": " image/shiguang /shiguang _09", "x": 123.14, "y": -101, "rotation": 177.38, "width": 461, "height": 403 },
+			"image/shiguang /shiguang _11": { "path": " image/shiguang /shiguang _11", "x": 123.14, "y": -101, "rotation": 177.38, "width": 461, "height": 403 },
+			"image/shiguang /shiguang _13": { "path": " image/shiguang /shiguang _13", "x": 123.14, "y": -101, "rotation": 177.38, "width": 461, "height": 403 },
+			"image/shiguang /shiguang _15": { "path": " image/shiguang /shiguang _15", "x": 123.14, "y": -101, "rotation": 177.38, "width": 461, "height": 403 },
+			"image/shiguang /shiguang _17": { "path": " image/shiguang /shiguang _17", "x": 123.14, "y": -101, "rotation": 177.38, "width": 461, "height": 403 },
+			"image/shiguang /shiguang _19": { "path": " image/shiguang /shiguang _19", "x": 123.14, "y": -101, "rotation": 177.38, "width": 461, "height": 403 }
+		},
+		"test": {
+			"test": { "x": 555.59, "y": -350.51, "width": 2048, "height": 2048 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"shiguang": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 616.84,
+						"y": 156.82,
+						"curve": [ 0.11, 0.33, 0.732, 0.93 ]
+					},
+					{ "time": 1.5, "x": 24.66, "y": 0, "curve": "stepped" },
+					{
+						"time": 5.1333,
+						"x": 24.66,
+						"y": 0,
+						"curve": [ 0.417, 0.06, 0.945, 0.48 ]
+					},
+					{ "time": 6.1333, "x": -874.47, "y": -347.11 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 0.473,
+						"y": 0.473,
+						"curve": [ 0.11, 0.33, 0.732, 0.93 ]
+					},
+					{ "time": 1.5, "x": 1, "y": 1, "curve": "stepped" },
+					{
+						"time": 5.1333,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.417, 0.06, 0.945, 0.48 ]
+					},
+					{ "time": 6.1333, "x": 1.645, "y": 1.645 }
+				]
+			},
+			"che": {
+				"translate": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.1333,
+						"x": -0.59,
+						"y": -13.48,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 2.2,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 3.2667,
+						"x": -0.59,
+						"y": -13.48,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 4.3333,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 5.6,
+						"x": -0.59,
+						"y": -13.48,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 6.2667, "x": -0.22, "y": -5.05 }
+				]
+			}
+		}
+	}
+}
+}

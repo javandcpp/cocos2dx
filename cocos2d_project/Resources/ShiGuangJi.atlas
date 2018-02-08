@@ -1,0 +1,251 @@
+
+ShiGuangJi.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ image/PT/69
+  rotate: false
+  xy: 453, 494
+  size: 326, 293
+  orig: 348, 300
+  offset: 9, 7
+  index: -1
+ image/PT/71
+  rotate: false
+  xy: 2, 82
+  size: 321, 300
+  orig: 348, 300
+  offset: 16, 0
+  index: -1
+ image/PT/73
+  rotate: false
+  xy: 1357, 1022
+  size: 316, 293
+  orig: 348, 300
+  offset: 24, 0
+  index: -1
+ image/PT/75
+  rotate: false
+  xy: 1357, 1317
+  size: 337, 280
+  orig: 348, 300
+  offset: 0, 1
+  index: -1
+ image/PT/77
+  rotate: false
+  xy: 906, 907
+  size: 333, 285
+  orig: 348, 300
+  offset: 3, 6
+  index: -1
+ image/fengshan/1
+  rotate: false
+  xy: 997, 376
+  size: 138, 133
+  orig: 147, 139
+  offset: 0, 0
+  index: -1
+ image/fengshan/3
+  rotate: false
+  xy: 502, 146
+  size: 137, 132
+  orig: 147, 139
+  offset: 1, 6
+  index: -1
+ image/fengshan/5
+  rotate: false
+  xy: 858, 371
+  size: 137, 138
+  orig: 147, 139
+  offset: 0, 1
+  index: -1
+ image/fengshan/7
+  rotate: false
+  xy: 858, 236
+  size: 135, 133
+  orig: 147, 139
+  offset: 2, 3
+  index: -1
+ image/fengshan/9
+  rotate: false
+  xy: 1785, 1431
+  size: 137, 134
+  orig: 147, 139
+  offset: 0, 4
+  index: -1
+ image/shiguang/01
+  rotate: false
+  xy: 907, 1194
+  size: 448, 403
+  orig: 461, 403
+  offset: 10, 0
+  index: -1
+ image/shiguang/03
+  rotate: false
+  xy: 2, 384
+  size: 449, 403
+  orig: 461, 403
+  offset: 10, 0
+  index: -1
+ image/shiguang/05
+  rotate: false
+  xy: 455, 1194
+  size: 450, 403
+  orig: 461, 403
+  offset: 9, 0
+  index: -1
+ image/shiguang/07
+  rotate: false
+  xy: 2, 1599
+  size: 451, 403
+  orig: 461, 403
+  offset: 8, 0
+  index: -1
+ image/shiguang/09
+  rotate: false
+  xy: 2, 1194
+  size: 451, 403
+  orig: 461, 403
+  offset: 8, 0
+  index: -1
+ image/shiguang/11
+  rotate: false
+  xy: 455, 1599
+  size: 451, 403
+  orig: 461, 403
+  offset: 8, 0
+  index: -1
+ image/shiguang/13
+  rotate: false
+  xy: 2, 789
+  size: 451, 403
+  orig: 461, 403
+  offset: 8, 0
+  index: -1
+ image/shiguang/15
+  rotate: false
+  xy: 908, 1599
+  size: 450, 403
+  orig: 461, 403
+  offset: 8, 0
+  index: -1
+ image/shiguang/17
+  rotate: false
+  xy: 455, 789
+  size: 449, 403
+  orig: 461, 403
+  offset: 8, 0
+  index: -1
+ image/shiguang/19
+  rotate: false
+  xy: 1360, 1599
+  size: 447, 403
+  orig: 461, 403
+  offset: 10, 0
+  index: -1
+ image/time/03
+  rotate: false
+  xy: 1809, 1785
+  size: 175, 217
+  orig: 182, 235
+  offset: 6, 11
+  index: -1
+ image/time/07
+  rotate: false
+  xy: 1809, 1567
+  size: 175, 216
+  orig: 182, 235
+  offset: 6, 11
+  index: -1
+ image/time/11
+  rotate: true
+  xy: 1124, 729
+  size: 176, 211
+  orig: 182, 235
+  offset: 5, 13
+  index: -1
+ image/time/15
+  rotate: false
+  xy: 1197, 515
+  size: 176, 212
+  orig: 182, 235
+  offset: 5, 16
+  index: -1
+ image/time/19
+  rotate: true
+  xy: 906, 729
+  size: 176, 216
+  orig: 182, 235
+  offset: 5, 13
+  index: -1
+ image/time/23
+  rotate: false
+  xy: 325, 165
+  size: 175, 217
+  orig: 182, 235
+  offset: 6, 11
+  index: -1
+ image/time/27
+  rotate: false
+  xy: 1020, 511
+  size: 175, 216
+  orig: 182, 235
+  offset: 6, 11
+  index: -1
+ image/time/31
+  rotate: false
+  xy: 680, 281
+  size: 176, 211
+  orig: 182, 235
+  offset: 5, 13
+  index: -1
+ image/time/35
+  rotate: false
+  xy: 502, 280
+  size: 176, 212
+  orig: 182, 235
+  offset: 5, 16
+  index: -1
+ image/time/39
+  rotate: false
+  xy: 842, 511
+  size: 176, 216
+  orig: 182, 235
+  offset: 5, 13
+  index: -1
+ image/weiqi/1
+  rotate: false
+  xy: 2, 2
+  size: 275, 78
+  orig: 298, 156
+  offset: 0, 38
+  index: -1
+ image/weiqi/3
+  rotate: true
+  xy: 781, 504
+  size: 283, 59
+  orig: 298, 156
+  offset: 11, 47
+  index: -1
+ image/weiqi/5
+  rotate: true
+  xy: 1696, 1443
+  size: 154, 87
+  orig: 298, 156
+  offset: 45, 29
+  index: -1
+ image/weiqi/7
+  rotate: true
+  xy: 1241, 1061
+  size: 131, 88
+  orig: 298, 156
+  offset: 86, 39
+  index: -1
+ image/weiqi/9
+  rotate: false
+  xy: 325, 91
+  size: 128, 72
+  orig: 298, 156
+  offset: 118, 60
+  index: -1

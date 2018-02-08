@@ -1,0 +1,83 @@
+
+TimeMachine.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ image/shiguang /shiguang _01
+  rotate: false
+  xy: 1028, 768
+  size: 448, 403
+  orig: 461, 403
+  offset: 10, 0
+  index: -1
+ image/shiguang /shiguang _03
+  rotate: false
+  xy: 455, 2
+  size: 449, 403
+  orig: 461, 403
+  offset: 10, 0
+  index: -1
+ image/shiguang /shiguang _05
+  rotate: false
+  xy: 1028, 1173
+  size: 450, 403
+  orig: 461, 403
+  offset: 9, 0
+  index: -1
+ image/shiguang /shiguang _07
+  rotate: false
+  xy: 2, 407
+  size: 451, 403
+  orig: 461, 403
+  offset: 8, 0
+  index: -1
+ image/shiguang /shiguang _09
+  rotate: false
+  xy: 1028, 1578
+  size: 451, 403
+  orig: 461, 403
+  offset: 8, 0
+  index: -1
+ image/shiguang /shiguang _11
+  rotate: false
+  xy: 2, 2
+  size: 451, 403
+  orig: 461, 403
+  offset: 8, 0
+  index: -1
+ image/shiguang /shiguang _13
+  rotate: false
+  xy: 455, 407
+  size: 451, 403
+  orig: 461, 403
+  offset: 8, 0
+  index: -1
+ image/shiguang /shiguang _15
+  rotate: false
+  xy: 1481, 1578
+  size: 450, 403
+  orig: 461, 403
+  offset: 8, 0
+  index: -1
+ image/shiguang /shiguang _17
+  rotate: false
+  xy: 1480, 1173
+  size: 449, 403
+  orig: 461, 403
+  offset: 8, 0
+  index: -1
+ image/shiguang /shiguang _19
+  rotate: false
+  xy: 1478, 768
+  size: 447, 403
+  orig: 461, 403
+  offset: 10, 0
+  index: -1
+test
+  rotate: false
+  xy: 2, 812
+  size: 1024, 1169
+  orig: 2048, 2048
+  offset: 2, 877
+  index: -1
